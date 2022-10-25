@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&nbsp&text=Evan's Github Profile&fontSize=20&animation=fadeIn)
 
 <h1 align="center">Hi 👋, I'm younghyunHan(Evan)</h1>
 <h3 align="center">I like to expand my knowledge to ask the right questions</h3>

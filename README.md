@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS/SCSS/Styled-Components, JavaScript, TypeScript, Node.js(Express), Next.js, React, MySQL, AWS(EC2), NginX etc**
 
-- All my projects can be viewed here <a href="https://invented-clarinet-9c1.notion.site/Project-66c3499bc2074e459d0e297e46ecb2ed"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Notion&logoColor=white"/></a>
+- All my projects can be viewed here <a href="https://invented-clarinet-9c1.notion.site/Project-66c3499bc2074e459d0e297e46ecb2ed"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Notion&logoColor=#000000"/></a>
 
 
 - 📝 I regularly write articles on [https://velog.io/@dudgus1670](https://velog.io/@dudgus1670)

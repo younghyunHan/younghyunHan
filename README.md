@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn)
 
-<h1 align="center">Hi 👋, I'm younghyunHan(Evan)</h1>
+<h1 align="center">Hi 👋, I'm younghyunHan(Joshua)</h1>
 <h3 align="center">I like to expand my knowledge to ask the right questions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yougnhyunhan&label=Profile%20views&color=0e75b6&style=flat" alt="yougnhyunhan" /> </p>

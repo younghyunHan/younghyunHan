@@ -25,5 +25,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younghyunHan&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghyunHan&show_icons=true&theme=transparent)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=younghyunHan&theme=react)]
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=younghyunHan&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
